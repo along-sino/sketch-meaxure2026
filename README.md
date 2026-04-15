@@ -10,7 +10,7 @@
 
 ## 安装
 
-⚠️macOS Ventura13.0请下载sketch 94版本～
+⚠️适用于 sketch2026.1 版本，已测试可用，
 
 - [进入下载页面](https://gitee.com/hubzyy/sketch-meaxure/releases)
 - 下载 `sketch-meaxure.sketchplugin.zip`
@@ -25,7 +25,7 @@
 
 用户可以识别的改进：
 
-1. 完全适用于最新版本的Sketch（v7.0）。
+1. 完全适用于最新版本的Sketch（2026.1 版本）。
 2. 最新的`色调`功能支持。
 3. 轻松调整标记的大小，而不必担心破坏它们。 （`调整大小限制`功能）。
 4. 在激活`动画堆栈`的情况下直接导出。
