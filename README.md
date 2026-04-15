@@ -1,6 +1,6 @@
 ## Sketch MeaXure
 
-最新版适配2025版本
+最新版适配2026版本
 
 
 > 感谢[@utom](https://github.com/utom)、[@jebbs](https://github.com/qjebbs)
